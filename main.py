@@ -8,9 +8,9 @@ headers = {"User-Agent": 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
 URLS = ['https://www.amazon.com/GFV22CB-Ultra-Compact-G-Sync-Compatible-FreeSync-Zero-Tolerance/dp/B082DNTXJ6/']
 
 dream_price = [1700,80]
-from_email = 'ytgbgaming@gmail.com'
-to_email = 'ytgbgaming@gmail.com'
-from_password = "081208Ab$"
+from_email = 'MY EMAIL'
+to_email = 'SAME EMAIL'
+from_password = "EMAIL PASSWORD"
 minutes = 5 #every how many minutes have to check the prices
 
 def check_price():
